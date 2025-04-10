@@ -1,0 +1,2 @@
+npm install cloudinary -> lugar donde subiremos nuestros archivos.
+npm install formidable -> permite a express subir archivos
